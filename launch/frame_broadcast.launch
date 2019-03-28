@@ -1,0 +1,6 @@
+<launch>
+
+ <node pkg="pimouse_tf_configuration" type="frame_tf_broadcaster"
+       name="frame_broadcaster" />
+
+</launch>
